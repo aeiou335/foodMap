@@ -1,0 +1,33 @@
+.form-container {
+    text-align: left;
+    padding: 1em;
+    margin: 1em;
+    border: 2px solid #d3d3d3;
+    border-radius: .5em;
+    vertical-align: middle;
+    
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 20px;
+}
+
+.form-container .title{
+  font-size: 30px;
+}
+
+.form-container .subtitle{
+  font-size: 20px;
+}
+
+.column-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-left: 25px;
+  width: 320px;
+}
+
+.bottom-container {
+  padding-left: 7px;
+}
+  

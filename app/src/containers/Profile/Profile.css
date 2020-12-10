@@ -1,0 +1,14 @@
+.card-main-container {
+    padding: 1em;
+    margin: 1em;
+    vertical-align: middle;
+    
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 100px;
+}
+
+.card-container {
+    margin-left: 10%;
+    margin-right: 10%;
+}

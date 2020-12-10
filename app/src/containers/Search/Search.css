@@ -1,0 +1,17 @@
+.search-container {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.search-form-container {
+    padding: 1em;
+    border: 2px solid #d3d3d3;
+    border-radius: .5em;
+    vertical-align: middle;
+    margin-top: 50px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}

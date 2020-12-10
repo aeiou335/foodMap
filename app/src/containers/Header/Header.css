@@ -1,0 +1,22 @@
+.nav-bar {
+    background: #242424;
+    color: #eeeeee;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    align-items: center;
+    text-align:center;
+    padding: 12px;
+    position: sticky;
+    top: 0;
+    height: 40px;
+}
+
+.brand {
+    display: flex;
+    width: 100vw;
+    color: #dbe7eb;
+    flex-direction: column;
+    text-align: left;
+    margin-bottom: 0px;
+}
